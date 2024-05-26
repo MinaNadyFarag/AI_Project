@@ -1,2 +1,3 @@
 # AI_Project
- 2nd Year
+Handwritten Text Recognition Using AI and Neural Networks
+In this project, our team developed an advanced program that utilizes artificial intelligence and neural networks to recognize and convert handwritten text into digital text. By training our model with a diverse dataset of handwritten samples, we ensured high accuracy in identifying various handwriting styles. Our program can efficiently process handwritten inputs, decode the content, and transform it into editable text format, facilitating seamless digitization of handwritten notes. This innovation has significant applications in areas such as digital archiving, educational tools, and enhancing accessibility.
